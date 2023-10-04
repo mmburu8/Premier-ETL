@@ -11,7 +11,7 @@ Current Version: 2022-08-02
 
 ## DESCRIPTION
 
-This program analyzes how engaged users are with a menu plannign calendar app. Data of each user is stored in a json file.
+This program analyzes how engaged users are with a menu planning calendar app. Data of each user is stored in a json file.
 
 json engineer.py collects specific data from json files and stores it in an excel workbook containing two sheets.
 
@@ -41,11 +41,11 @@ If you run to an issue, bug or you have a problem send me an email at mmburu961@
 I am open to collaborating on projects such as data engineering, data analytics, data visualization and Machine learning.
 
 
-LICENSE
+## LICENSE
 
 Apache 2.0
 
 Copyright (c) 2022
 
 mmburu8
-"The man in the arena "
+
